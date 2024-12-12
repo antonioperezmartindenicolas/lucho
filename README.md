@@ -26,5 +26,5 @@ Este proyecto incluye:
 Si tienes alguna pregunta, no dudes en contactarme:
 
 - Email: lucho.salas@educa.madrid.es
-- GitHub: noestadisponible
-- [Linkedin](https://www.linkedin.com)
+- GitHub: [noestadisponible](https://github.com/noestadisponible)
+- Linkedin: [Linkedin](www.linkedin.com/in/luchopaul)
