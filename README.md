@@ -2,4 +2,4 @@
 ---
 - Uno
 - Dos
-- [Linkedin][https://www.linkedin.com]
+- [Linkedin](https://www.linkedin.com)
