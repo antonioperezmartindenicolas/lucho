@@ -22,5 +22,9 @@ Este proyecto incluye:
 - Enlace 2
 - Enlace 3
 
-### Creador
+### Contacto
+Si tienes alguna pregunta, no dudes en contactarme:
+
+- Email: lucho.salas@educa.madrid.es
+- GitHub: noestadisponible
 - [Linkedin](https://www.linkedin.com)
