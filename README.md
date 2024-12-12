@@ -1,4 +1,4 @@
-# lucho
+# Lucho
 ---
 
 # Proyecto: Mi Primer Repositorio
