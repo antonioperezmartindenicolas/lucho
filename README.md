@@ -5,6 +5,7 @@
 
 Bienvenido a mi primer repositorio en GitHub. 
 Creando un README.md sencillo y bonito.
+Le agrego otra linea para crear un segundo conflicto
 
 ---
 
