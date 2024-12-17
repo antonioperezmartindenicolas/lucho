@@ -1,7 +1,7 @@
 # Lucho
 ---
 
-![imagen](C:\Users\Lucho Salas\Desktop\ASIR2\github\imagenes\18.jpg)
+![imagen](imagenes/18.jpg)
 
 # Proyecto: Mi Primer Repositorio
 
