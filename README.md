@@ -1,7 +1,6 @@
 # Lucho
 ---
 
-![imagen](imagenes/18.jpg)
 
 # Proyecto: Mi Primer Repositorio
 
@@ -27,6 +26,8 @@ Este proyecto incluye:
 - Enlace 3
 
 ---
+
+![imagen](imagenes/18.jpg)
 
 ### Contacto
 Si tienes alguna pregunta, no dudes en contactarme:
