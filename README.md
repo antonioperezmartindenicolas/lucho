@@ -6,16 +6,8 @@
 
 Bienvenido a mi primer repositorio en GitHub. 
 Creando un README.md sencillo y bonito.
-<<<<<<< HEAD
-
-Le agrego otra linea para crear un segundo conflicto
-
-Le agrego una línea para crear conflicto
-
-=======
 Le agrego otra linea para crear un segundo conflicto
 Le agrego una línea para crear conflicto
->>>>>>> aff7da1417f8ff8a4484fbaaec924394e7067808
 
 ---
 
