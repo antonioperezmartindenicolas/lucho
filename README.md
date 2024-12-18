@@ -34,4 +34,4 @@ Si tienes alguna pregunta, no dudes en contactarme:
 
 - Email: lucho.salas@educa.madrid.org
 - GitHub: [noestadisponible](https://github.com/noestadisponible)
-- Linkedin: [Linkedin](www.linkedin.com/in/luchopaul)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/luchopaul)
